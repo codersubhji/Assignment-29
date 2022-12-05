@@ -1,0 +1,3 @@
+Ideally, paragraphs should be well connected to each other. Order paragraphs so that each one follows logically from the previous one. To make this logic more obvious, you can use transition words (or “connectors”), so that the paragraphs flow better and the reader is always kept on track. 
+
+As the author, you know why one paragraph relates to the next, because you’ve put a lot of effort, research, and thought into the planning of this document. Your reader isn’t as well-versed in the subject as you are, however. Adding transition words and phrases helps cue your reader into the connections between ideas you’ve already made for yourself.
